@@ -1,3 +1,5 @@
+Simple expense tracker using React hooks & context
+
 ![Screenshot ](https://user-images.githubusercontent.com/68656122/124375220-bc8a2880-dcbe-11eb-87b1-5079cfc92d4a.png)
 
 
