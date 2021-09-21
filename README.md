@@ -1,3 +1,5 @@
+# React Expense Tracker
+
 Simple expense tracker using React hooks & context
 
 # Screenshots
