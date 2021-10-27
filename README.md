@@ -1,5 +1,5 @@
 # React Expense Tracker
-
+Here we can check our expenses and income by calculating the same.
 Simple expense tracker using React hooks & context
 
 # Screenshots
